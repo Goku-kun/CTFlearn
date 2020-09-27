@@ -1,0 +1,1 @@
+Change the extension of the image to .txt and then look for the flag in the text file.
