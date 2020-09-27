@@ -1,0 +1,3 @@
+the query to be written is as follows:
+
+anything' OR '1' = '1
